@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Femi 👋
 
-<!--
-**Showerspro2/Showerspro2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Product Builder & Product Manager** — building AI-assisted products in fintech, governance and compliance.
 
-Here are some ideas to get you started:
+Since April 2025, I've taken multiple software products from ambiguous business problems through requirements, workflow design, architecture decisions, AI-assisted implementation, testing, security review and iteration. I use tools like Claude and ChatGPT as working product and technical partners — I define the problem and constraints, challenge proposed solutions, require evidence and test results, and decide what should and shouldn't be built.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work increasingly focuses on **trustworthy AI systems** — combining deterministic controls, structured LLM outputs, independent validation, safe failure behaviour, and clear human decision boundaries.
+
+---
+
+**🔧 What I've been building**
+
+- **Spend Approval & Governance SaaS** — a governance platform for organisations that have outgrown spreadsheet-based approvals. Led a security review that caught an access-control gap letting staff bypass finance approval on their own requests.
+- **Financial Governance & Controls SaaS** — a multi-tenant platform with a 21-rule exception engine covering budget control, approval exceptions, duplicate invoices, and supplier compliance.
+- **UK Construction Workforce & Payroll Compliance Platform** — product managed a workforce, compliance, and payroll platform, converting complex UK regulatory requirements (CIS, Right to Work, Agency Workers) into explicit workflow rules.
+- **AI Financial Control Triage** — an n8n + Claude prototype exploring the boundary between deterministic automation, AI judgement, and human authority, including prompt-injection protection and safe-failure design for unavailable/invalid AI output.
+
+**🛠️ Technical fluency**
+
+React · Next.js · TypeScript · Node.js · PostgreSQL · MySQL · REST APIs · RBAC · Multi-tenancy
+
+**📍 Background**
+
+15+ years spanning regulated banking, financial services operations, and construction project delivery — now applying that domain depth to building AI-assisted products.
+
+[LinkedIn](https://linkedin.com/in/obafemi-arokoyo)
