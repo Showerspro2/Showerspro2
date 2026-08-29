@@ -24,4 +24,6 @@ React, Next.js, TypeScript, Node.js, PostgreSQL, MySQL, REST APIs, RBAC, multi t
 
 15+ years spanning regulated banking, financial services operations, and construction project delivery, now applying that domain depth to building AI assisted products.
 
+Most of my active project work is in private repositories, built for clients and regulated environments. Happy to walk through the code or share access directly on request.
+
 LinkedIn: linkedin.com/in/obafemi-arokoyo
